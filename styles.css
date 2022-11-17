@@ -36,6 +36,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: var(--Cream);
 }
 
 .preview-card {
@@ -45,7 +46,6 @@ body {
     height: auto;
     background-color: var(--White);
     border-radius: 10px;
-    margin: 5rem;
 
 }
 
